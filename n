@@ -1,0 +1,11 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 620ca90..5f4f9f2 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,6 @@[m
+ <p>This is a new Local Repository.</p>[m
+[32m+[m[32m<<<<<<< HEAD[m
+[32m+[m[32m<p> This is newest LOCAL REPOSITORY (dropdown)</p>[m
+[32m+[m[32m=======[m
+ <p> This is newest LOCAL REPOSITORY (button)</p>[m
+[32m+[m[32m>>>>>>> main[m
